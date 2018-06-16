@@ -1,0 +1,18 @@
+
+.jumbotron {
+    background-color: #000000;
+}
+
+h1 {
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card.grid {
+    width: 50%;
+}
+
+.card {
+    margin: 25px;
+}
